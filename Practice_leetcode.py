@@ -18,7 +18,7 @@ class Solution:
         return [int(_) for _ in str(n)]
     
     def minCostConnectPoints(self, points: list([list([int])])) -> int:
+        pass
         
-                
 
-Solution.minCostConnectPoints(Solution,points= [[3,12],[-2,5],[-4,1]])
+Solution().minCostConnectPoints(points= [[3,12],[-2,5],[-4,1]])
